@@ -1,0 +1,26 @@
+/* table{ */
+	/* border: 1; */
+	/* } */
+td 
+{
+    text-align: center; 
+    vertical-align: middle;
+}
+
+
+	
+.button {
+  width: 90px;	
+  height: 32px;
+  background-color: #145252;
+  border: 1 px;
+  color: white;
+  /* padding: 10px 21px; */
+  text-align: center;
+  vertical-align: middle;
+  text-decoration: none;
+  /* display: inline-block; */
+  font-size: 12px;
+  /* margin: 4px 2px; */
+  cursor: pointer;
+}
